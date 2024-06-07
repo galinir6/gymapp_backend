@@ -32,7 +32,7 @@ GymApp is a mobile application designed to help users track their workouts and p
 1. Clone the repository:
 
     
-    git clone https://github.com/yourusername/gymapp.git
+    git clone https://github.com/galinir6/gymapp_backend.git
     cd gymapp/backend
    
 
