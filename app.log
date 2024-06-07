@@ -1,0 +1,60 @@
+2024-05-24 11:53:43,728 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.35:5000
+2024-05-24 11:53:43,728 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-05-24 11:53:43,732 INFO werkzeug MainThread :  * Restarting with stat
+2024-05-24 11:53:44,288 WARNING werkzeug MainThread :  * Debugger is active!
+2024-05-24 11:53:44,293 INFO werkzeug MainThread :  * Debugger PIN: 303-754-959
+2024-05-24 11:53:57,822 INFO root Thread-2 (process_request_thread) : User details retrieved for user 66464fd82b2ddc27444dc398
+2024-05-24 11:53:57,823 INFO werkzeug Thread-2 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:53:57] "GET /api/auth/user HTTP/1.1" 200 -
+2024-05-24 11:53:57,840 INFO root Thread-3 (process_request_thread) : Workout history retrieved for user 66464fd82b2ddc27444dc398
+2024-05-24 11:53:57,840 INFO werkzeug Thread-3 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:53:57] "GET /api/workouts/history HTTP/1.1" 200 -
+2024-05-24 11:54:21,795 INFO root Thread-4 (process_request_thread) : User details retrieved for user 66464fd82b2ddc27444dc398
+2024-05-24 11:54:21,795 INFO werkzeug Thread-4 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:54:21] "GET /api/auth/user HTTP/1.1" 200 -
+2024-05-24 11:54:21,812 INFO root Thread-5 (process_request_thread) : Workout history retrieved for user 66464fd82b2ddc27444dc398
+2024-05-24 11:54:21,813 INFO werkzeug Thread-5 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:54:21] "GET /api/workouts/history HTTP/1.1" 200 -
+2024-05-24 11:54:34,907 INFO root Thread-6 (process_request_thread) : User gali@gmail.com logged in successfully
+2024-05-24 11:54:34,907 INFO werkzeug Thread-6 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:54:34] "POST /api/auth/login HTTP/1.1" 200 -
+2024-05-24 11:54:34,962 INFO root Thread-7 (process_request_thread) : User details retrieved for user 6649edabbc95dbab0453ce8d
+2024-05-24 11:54:34,962 INFO werkzeug Thread-7 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:54:34] "GET /api/auth/user HTTP/1.1" 200 -
+2024-05-24 11:54:34,971 INFO root Thread-8 (process_request_thread) : User details retrieved for user 6649edabbc95dbab0453ce8d
+2024-05-24 11:54:34,972 INFO werkzeug Thread-8 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:54:34] "GET /api/auth/user HTTP/1.1" 200 -
+2024-05-24 11:54:34,984 INFO root Thread-9 (process_request_thread) : User details retrieved for user 6649edabbc95dbab0453ce8d
+2024-05-24 11:54:34,986 INFO werkzeug Thread-9 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:54:34] "GET /api/auth/user HTTP/1.1" 200 -
+2024-05-24 11:54:34,991 INFO root Thread-10 (process_request_thread) : Workout history retrieved for user 6649edabbc95dbab0453ce8d
+2024-05-24 11:54:34,991 INFO werkzeug Thread-10 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:54:34] "GET /api/workouts/history HTTP/1.1" 200 -
+2024-05-24 11:54:35,007 INFO root Thread-11 (process_request_thread) : Workout history retrieved for user 6649edabbc95dbab0453ce8d
+2024-05-24 11:54:35,007 INFO werkzeug Thread-11 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:54:35] "GET /api/workouts/history HTTP/1.1" 200 -
+2024-05-24 11:57:08,585 INFO root Thread-12 (process_request_thread) : Workout added for user 6649edabbc95dbab0453ce8d
+2024-05-24 11:57:08,585 INFO werkzeug Thread-12 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:57:08] "[35m[1mPOST /api/workouts/add HTTP/1.1[0m" 201 -
+2024-05-24 11:57:08,656 INFO root Thread-13 (process_request_thread) : User details retrieved for user 6649edabbc95dbab0453ce8d
+2024-05-24 11:57:08,656 INFO werkzeug Thread-13 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:57:08] "GET /api/auth/user HTTP/1.1" 200 -
+2024-05-24 11:57:08,684 INFO root Thread-14 (process_request_thread) : Workout history retrieved for user 6649edabbc95dbab0453ce8d
+2024-05-24 11:57:08,684 INFO werkzeug Thread-14 (process_request_thread) : 10.100.102.31 - - [24/May/2024 11:57:08] "GET /api/workouts/history HTTP/1.1" 200 -
+2024-06-07 13:32:47,424 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.102.35:5000
+2024-06-07 13:32:47,425 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2024-06-07 13:32:47,431 INFO werkzeug MainThread :  * Restarting with stat
+2024-06-07 13:32:48,054 WARNING werkzeug MainThread :  * Debugger is active!
+2024-06-07 13:32:48,061 INFO werkzeug MainThread :  * Debugger PIN: 131-646-339
+2024-06-07 13:34:51,637 INFO root Thread-2 (process_request_thread) : User gali@gmail.com logged in successfully
+2024-06-07 13:34:51,638 INFO werkzeug Thread-2 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:34:51] "POST /api/auth/login HTTP/1.1" 200 -
+2024-06-07 13:34:51,720 INFO root Thread-5 (process_request_thread) : User details retrieved for user 6649edabbc95dbab0453ce8d
+2024-06-07 13:34:51,720 INFO werkzeug Thread-5 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:34:51] "GET /api/auth/user HTTP/1.1" 200 -
+2024-06-07 13:34:51,721 INFO root Thread-4 (process_request_thread) : User details retrieved for user 6649edabbc95dbab0453ce8d
+2024-06-07 13:34:51,721 INFO werkzeug Thread-4 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:34:51] "GET /api/auth/user HTTP/1.1" 200 -
+2024-06-07 13:34:51,723 INFO root Thread-3 (process_request_thread) : User details retrieved for user 6649edabbc95dbab0453ce8d
+2024-06-07 13:34:51,723 INFO werkzeug Thread-3 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:34:51] "GET /api/auth/user HTTP/1.1" 200 -
+2024-06-07 13:34:51,758 INFO root Thread-6 (process_request_thread) : Workout history retrieved for user 6649edabbc95dbab0453ce8d
+2024-06-07 13:34:51,760 INFO werkzeug Thread-6 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:34:51] "GET /api/workouts/history HTTP/1.1" 200 -
+2024-06-07 13:34:51,760 INFO root Thread-7 (process_request_thread) : Workout history retrieved for user 6649edabbc95dbab0453ce8d
+2024-06-07 13:34:51,761 INFO werkzeug Thread-7 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:34:51] "GET /api/workouts/history HTTP/1.1" 200 -
+2024-06-07 13:36:00,044 INFO root Thread-8 (process_request_thread) : Workout added for user 6649edabbc95dbab0453ce8d
+2024-06-07 13:36:00,045 INFO werkzeug Thread-8 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:36:00] "[35m[1mPOST /api/workouts/add HTTP/1.1[0m" 201 -
+2024-06-07 13:36:00,101 INFO root Thread-9 (process_request_thread) : User details retrieved for user 6649edabbc95dbab0453ce8d
+2024-06-07 13:36:00,101 INFO werkzeug Thread-9 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:36:00] "GET /api/auth/user HTTP/1.1" 200 -
+2024-06-07 13:36:00,125 INFO root Thread-10 (process_request_thread) : Workout history retrieved for user 6649edabbc95dbab0453ce8d
+2024-06-07 13:36:00,125 INFO werkzeug Thread-10 (process_request_thread) : 10.100.102.31 - - [07/Jun/2024 13:36:00] "GET /api/workouts/history HTTP/1.1" 200 -
