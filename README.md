@@ -33,14 +33,14 @@ GymApp is a mobile application designed to help users track their workouts and p
 
     
     git clone https://github.com/galinir6/gymapp_backend.git
-    cd gymapp/backend
+    cd gymapp_backend
    
 
 2. Create a virtual environment and activate it:
 
    
-    python -m venv venv
-    `venv\Scripts\activate`
+    python -m venv env
+    `env\Scripts\activate`
     
 
 3. Install the dependencies:
@@ -56,24 +56,7 @@ GymApp is a mobile application designed to help users track their workouts and p
 
     py app.py
 
-### Frontend Setup
 
-1. Install the Expo CLI if you haven't already:
-
-    npm install -g expo-cli
-   
-
-2. Navigate to the frontend directory and install the dependencies:
-
-   
-    cd workouts
-    npm install
-    
-
-3. Start the Expo development server:
-
-    npm start
-    
 
 ## Configuration
 
